@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Link do repozytorium: https://github.com/scipy/scipy
+Link do strony wybranego artykułu: https://cs.paperswithcode.com/paper/scipy-1-0-fundamental-algorithms-for
